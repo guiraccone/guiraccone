@@ -25,6 +25,7 @@
   <li>JavaScript</li>
   <li>NodeJS</li>
   <li>React</li>
+  <li>TypeScript</li>
 </ul>
 
 
