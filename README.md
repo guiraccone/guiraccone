@@ -1,7 +1,5 @@
 ### Hi there, i'm Guilherme 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matheus-raccone-9b045b253/)
-
 
 ## Skills 🔧
 
