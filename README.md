@@ -1,4 +1,7 @@
 ### Hi there, i'm Guilherme 👋
+"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."
+- John Woods
+
 
 ## Skills 🔧
 
@@ -12,19 +15,7 @@
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-  
 </div>
-
-<br>
-
-### 🌱 I’m currently studying:
-
-<ul>
-  <li>React</li>
-  <li>Tailwind</li>
-  <li>NodeJS</li>
-</ul>
 
 
 <!--
